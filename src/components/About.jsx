@@ -190,6 +190,27 @@ const About = () => {
                           <div className="progress-in" style={{ width: "94%" }}></div>
                           
                         </div>
+                               <div className="skill-item padd-15">
+                        <h5>WEBFLOW</h5>
+                        <div className="progress">
+                          <div className="progress-in" style={{ width: "94%" }}></div>
+                          
+                        </div>
+                      </div>
+                      <div className="skill-item padd-15">
+                        <h5>SHOPIFY</h5>
+                        <div className="progress">
+                          <div className="progress-in" style={{ width: "94%" }}></div>
+                          
+                        </div>
+                      </div>
+                      <div className="skill-item padd-15">
+                        <h5>APPFORM</h5>
+                        <div className="progress">
+                          <div className="progress-in" style={{ width: "94%" }}></div>
+                          
+                        </div>
+                      </div>
                       </div>
                       
                     </div>
