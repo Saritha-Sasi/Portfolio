@@ -190,7 +190,9 @@ const About = () => {
                           <div className="progress-in" style={{ width: "94%" }}></div>
                           
                         </div>
-                               <div className="skill-item padd-15">
+                               
+                      </div>
+                      <div className="skill-item padd-15">
                         <h5>WEBFLOW</h5>
                         <div className="progress">
                           <div className="progress-in" style={{ width: "94%" }}></div>
@@ -210,7 +212,6 @@ const About = () => {
                           <div className="progress-in" style={{ width: "94%" }}></div>
                           
                         </div>
-                      </div>
                       </div>
                       
                     </div>
