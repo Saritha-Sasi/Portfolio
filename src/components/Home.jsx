@@ -28,7 +28,7 @@ const Home = () => {
                                 <h3 className="my-profession">I'm a <span className="typed">Frontend Developer</span></h3>
                                 <p>Creative and detail-oriented Frontend Developer with 8 years of experience in
                                     designing and developing responsive, user-centered web applications... </p>
-                                <a href="/public/UI Developer.pdf" className="btn ">Download CV</a>
+                                <a href="./UI Developer.pdf" className="btn ">Download CV</a>
                             </div>
                             {/* <div className="home-img padd-15">
                                 <img src="/images/hero.jpg" alt="" />
