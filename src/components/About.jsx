@@ -121,27 +121,9 @@ const About = () => {
                          
                         </div>
                       </div>
-                      <div className="skill-item padd-15">
-                        <h5>NODE</h5>
-                        <div className="progress">
-                          <div className="progress-in" style={{ width: "94%" }}></div>
-                         
-                        </div>
-                      </div>
-                      <div className="skill-item padd-15">
-                        <h5>EXPRESS</h5>
-                        <div className="progress">
-                          <div className="progress-in" style={{ width: "94%" }}></div>
-                         
-                        </div>
-                      </div>
-                      <div className="skill-item padd-15">
-                        <h5>MONGO DB</h5>
-                        <div className="progress">
-                          <div className="progress-in" style={{ width: "94%" }}></div>
-                         
-                        </div>
-                      </div>
+                      
+                     
+                      
                       <div className="skill-item padd-15">
                         <h5>WORDPRESS</h5>
                         <div className="progress">
@@ -192,13 +174,7 @@ const About = () => {
                         </div>
                                
                       </div>
-                      <div className="skill-item padd-15">
-                        <h5>WEBFLOW</h5>
-                        <div className="progress">
-                          <div className="progress-in" style={{ width: "94%" }}></div>
-                          
-                        </div>
-                      </div>
+                      
 
                       <div className="skill-item padd-15">
                         <h5>APPFORM</h5>
