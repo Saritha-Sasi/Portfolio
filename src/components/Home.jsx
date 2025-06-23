@@ -25,7 +25,7 @@ const Home = () => {
                         <div className="row">
                             <div className="home-info padd-15">
                                 <h3 className="hello">Hello my name is <span className="name">Saritha Sasidharan</span></h3>
-                                <h3 className="my-profession">I'm a <span className="typed">Frontend Developer</span></h3>
+                                <h3 className="my-profession">I'm a <span className="typed">Wordpress/ UI Developer</span></h3>
                                 <p>Creative and detail-oriented Frontend Developer with 8 years of experience in
                                     designing and developing responsive, user-centered web applications... </p>
                                 <a href="./UI Developer.pdf" target="_blank" className="btn ">Download CV</a>
