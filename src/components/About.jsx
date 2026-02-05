@@ -265,7 +265,7 @@ const About = () => {
                           <div className="timeline-item">
                             <div className="circle-dot"></div>
                             <h3 className="timeline-date">
-                              <i className="fa fa-calendar"></i>2015-2019
+                              <i className="fa fa-calendar"></i>2015 
                             </h3>
                             <h4 className="timeline-title">Freelance Web Designer</h4>
                             <p className="timeline-text">
