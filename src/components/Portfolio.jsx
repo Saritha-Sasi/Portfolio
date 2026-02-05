@@ -21,7 +21,7 @@ const Portfolio = () => {
                     </div>
                     <div className="row">
                         <div className="portfolio-heading padd-15">
-                            <h2>My Last Projects :</h2>
+                           {/* <h2>My Last Projects :</h2> */}
                         </div>
                     </div>
                     <div className="row">
