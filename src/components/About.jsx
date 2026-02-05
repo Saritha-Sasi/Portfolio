@@ -200,9 +200,9 @@ const About = () => {
                         <div className="timeline shadow-dark">
                           <div className="timeline-item">
                             <div className="circle-dot"></div>
-                            <h3 className="timeline-date">
+                           {/* <h3 className="timeline-date">
                               <i className="fa fa-calendar"></i>2014
-                            </h3>
+                            </h3> */}
                             <h4 className="timeline-title">B.tech</h4>
                             <p className="timeline-text">
                             Bachelor of Engineering - Computer Science, Kerala University
@@ -211,9 +211,9 @@ const About = () => {
 
                           <div className="timeline-item">
                             <div className="circle-dot"></div>
-                            <h3 className="timeline-date">
+                            {/* <h3 className="timeline-date">
                               <i className="fa fa-calendar"></i>2009
-                            </h3>
+                            </h3>*/}
                             <h4 className="timeline-title">Diploma</h4>
                             <p className="timeline-text">
                             Diploma in Engineering - Computer Science, Kerala University</p>
@@ -221,9 +221,9 @@ const About = () => {
 
                           <div className="timeline-item">
                             <div className="circle-dot"></div>
-                            <h3 className="timeline-date">
+                            {/* <h3 className="timeline-date">
                               <i className="fa fa-calendar"></i>2006
-                            </h3>
+                            </h3> */}
                             <h4 className="timeline-title">Plus Two</h4>
                             <p className="timeline-text">
                               Higher Secondary</p>
