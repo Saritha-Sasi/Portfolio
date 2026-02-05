@@ -842,8 +842,7 @@ h3.my-profession {
     flex: 0 0 50%;
     max-width: 50%;
 }
-}
-@media (max-width : 410px) {
+
 .service .service-item .service-item-inner  {
     height: auto !important;
 }
